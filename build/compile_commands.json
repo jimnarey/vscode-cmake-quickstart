@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jimnarey/projects/cmake-quickstart/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/cmake-quickstart.dir/main.cpp.o -c /home/jimnarey/projects/cmake-quickstart/main.cpp",
+  "file": "/home/jimnarey/projects/cmake-quickstart/main.cpp",
+  "output": "CMakeFiles/cmake-quickstart.dir/main.cpp.o"
+}
+]
